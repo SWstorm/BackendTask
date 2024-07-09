@@ -94,7 +94,6 @@ public class Main {
             workDays++;
         }
 
-        return workDays;
+        return workDays - 1;
     }
 }
-
