@@ -23,6 +23,7 @@ public class Application {
 	public boolean outToConsole() throws Exception {
 		Scanner in = new Scanner(System.in);
 
+
 		System.out.println("Введите число a");
 		double a = in.nextDouble();
 		System.out.println("Введите число b");
